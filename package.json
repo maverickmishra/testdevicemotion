@@ -1,0 +1,17 @@
+{
+    "name": "hellocordova",
+    "version": "1.0.0",
+    "dependencies": {
+        "cordova": "^7.0.1",
+        "cordova-browser": "^4.1.0",
+        "cordova-plugin-whitelist": "1"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-whitelist": {}
+        },
+        "platforms": [
+            "browser"
+        ]
+    }
+}
